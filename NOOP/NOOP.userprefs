@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\Workspaces\Unity3D\Iambic3D\Assets\Script\CharactorMove.cs">
+    <Files>
+      <File FileName="..\..\..\..\..\Workspaces\Unity3D\Iambic3D\Assets\Script\LightFollow.cs" Line="8" Column="1" />
+      <File FileName="..\..\..\..\..\Workspaces\Unity3D\Iambic3D\Assets\Script\CharactorMove.cs" Line="40" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
