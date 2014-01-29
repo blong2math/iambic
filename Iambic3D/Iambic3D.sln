@@ -1,23 +1,19 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{B67CDDC3-55E1-B3B1-B826-E3C34189CE6D}") = "Iambic3D", "Assembly-CSharp.csproj", "{D36D4927-96C5-E694-5686-9B039A1AEA77}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D36D4927-96C5-E694-5686-9B039A1AEA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D36D4927-96C5-E694-5686-9B039A1AEA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D36D4927-96C5-E694-5686-9B039A1AEA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D36D4927-96C5-E694-5686-9B039A1AEA77}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																								GlobalSection(MonoDevelopProperties) = preSolution
+																																																			GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

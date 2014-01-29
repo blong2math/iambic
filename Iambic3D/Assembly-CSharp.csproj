@@ -48,7 +48,6 @@
   <ItemGroup>
      <Compile Include="Assets\Script\CameraFollow.cs" />
      <Compile Include="Assets\Script\CharactorMove.cs" />
-     <Compile Include="Assets\Script\ElevatorMove.cs" />
      <Compile Include="Assets\Script\LightFollow.cs" />
      <Compile Include="Assets\Script\Pushable.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />

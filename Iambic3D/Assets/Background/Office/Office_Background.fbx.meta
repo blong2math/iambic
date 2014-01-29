@@ -1,0 +1,1335 @@
+fileFormatVersion: 2
+guid: f1f329ccf38dc0f4ca03c3ee9dc628ea
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: 0.60
+    100002: 0.60 1
+    100004: 0.62
+    100006: 0.62 1
+    100008: 0.81
+    100010: 0.81 1
+    100012: 0.82
+    100014: 0.82 1
+    100016: 0.83
+    100018: 0.83 1
+    100020: 0.84
+    100022: 0.84 1
+    100024: 1.07
+    100026: 1.07 1
+    100028: 1.09
+    100030: 1.09 1
+    100032: 1.11
+    100034: 1.11 1
+    100036: ______1.14
+    100038: ______1.14 1
+    100040: ______1.16
+    100042: ______1.16 1
+    100044: ______1.17
+    100046: ______1.17 1
+    100048: ______1.18
+    100050: ______1.18 1
+    100052: ______1.19
+    100054: ______1.19 1
+    100056: ______1.20
+    100058: ______1.20 1
+    100060: ______2.04
+    100062: ______2.04 1
+    100064: ______2.06
+    100066: ______2.06 1
+    100068: ______2.07
+    100070: ______2.07 1
+    100072: ______2.08
+    100074: ______2.08 1
+    100076: ______2.09
+    100078: ______2.09 1
+    100080: ______2.10
+    100082: ______2.10 1
+    100084: _________04
+    100086: _________04 1
+    100088: _________05
+    100090: _________05 1
+    100092: _________06
+    100094: _________06 1
+    100096: _________11
+    100098: _________11 1
+    100100: _________12
+    100102: _________12 1
+    100104: _________13
+    100106: _________13 1
+    100108: _________14
+    100110: _________14 1
+    100112: _________15
+    100114: _________15 1
+    100116: _________16
+    100118: _________16 1
+    100120: CenterAxis
+    100122: CenterAxis 1
+    100124: ChamferBox01
+    100126: ChamferBox01 1
+    100128: ChamferBox02
+    100130: ChamferBox02 1
+    100132: ChamferBox03
+    100134: ChamferBox03 1
+    100136: ChamferCyl010
+    100138: ChamferCyl010 1
+    100140: ChamferCyl011
+    100142: ChamferCyl011 1
+    100144: ChamferCyl012
+    100146: ChamferCyl012 1
+    100148: ChamferCyl013
+    100150: ChamferCyl013 1
+    100152: ChamferCyl014
+    100154: ChamferCyl014 1
+    100156: ChamferCyl015
+    100158: ChamferCyl015 1
+    100160: ChamferCyl016
+    100162: ChamferCyl016 1
+    100164: ChamferCyl017
+    100166: ChamferCyl017 1
+    100168: ChamferCyl018
+    100170: ChamferCyl018 1
+    100172: ChamferCyl019
+    100174: ChamferCyl019 1
+    100176: ChamferCyl020
+    100178: ChamferCyl020 1
+    100180: ChamferCyl021
+    100182: ChamferCyl021 1
+    100184: ChamferCyl022
+    100186: ChamferCyl022 1
+    100188: ChamferCyl023
+    100190: ChamferCyl023 1
+    100192: ChamferCyl024
+    100194: ChamferCyl024 1
+    100196: ChamferCyl025
+    100198: ChamferCyl025 1
+    100200: ChamferCyl026
+    100202: ChamferCyl026 1
+    100204: ChamferCyl027
+    100206: ChamferCyl027 1
+    100208: ChamferCyl028
+    100210: ChamferCyl028 1
+    100212: ChamferCyl029
+    100214: ChamferCyl029 1
+    100216: ChamferCyl030
+    100218: ChamferCyl030 1
+    100220: ChamferCyl031
+    100222: ChamferCyl031 1
+    100224: ChamferCyl49
+    100226: ChamferCyl49 1
+    100228: ChamferCyl50
+    100230: ChamferCyl50 1
+    100232: ChamferCyl51
+    100234: ChamferCyl51 1
+    100236: ChamferCyl52
+    100238: ChamferCyl52 1
+    100240: ChamferCyl53
+    100242: ChamferCyl53 1
+    100244: ChamferCyl54
+    100246: ChamferCyl54 1
+    100248: ChamferCyl55
+    100250: ChamferCyl55 1
+    100252: ChamferCyl56
+    100254: ChamferCyl56 1
+    100256: ChamferCyl57
+    100258: ChamferCyl57 1
+    100260: ChamferCyl58
+    100262: ChamferCyl58 1
+    100264: ChamferCyl59
+    100266: ChamferCyl59 1
+    100268: ChamferCyl60
+    100270: ChamferCyl60 1
+    100272: ChamferCyl61
+    100274: ChamferCyl61 1
+    100276: ChamferCyl62
+    100278: ChamferCyl62 1
+    100280: ChamferCyl63
+    100282: ChamferCyl63 1
+    100284: ChamferCyl64
+    100286: ChamferCyl64 1
+    100288: ChamferCyl65
+    100290: ChamferCyl65 1
+    100292: ChamferCyl66
+    100294: ChamferCyl66 1
+    100296: ChamferCyl67
+    100298: ChamferCyl67 1
+    100300: Cylinder01
+    100302: Cylinder01 1
+    100304: Cylinder010
+    100306: Cylinder010 1
+    100308: Cylinder011
+    100310: Cylinder011 1
+    100312: Cylinder012
+    100314: Cylinder012 1
+    100316: Cylinder013
+    100318: Cylinder013 1
+    100320: Cylinder06
+    100322: Cylinder06 1
+    100324: Cylinder08
+    100326: Cylinder08 1
+    100328: Cylinder09
+    100330: Cylinder09 1
+    100332: Cylinder100
+    100334: Cylinder100 1
+    100336: Cylinder101
+    100338: Cylinder101 1
+    100340: Cylinder102
+    100342: Cylinder102 1
+    100344: Cylinder211
+    100346: Cylinder211 1
+    100348: Cylinder212
+    100350: Cylinder212 1
+    100352: Cylinder213
+    100354: Cylinder213 1
+    100356: Cylinder214
+    100358: Cylinder214 1
+    100360: Cylinder215
+    100362: Cylinder215 1
+    100364: Cylinder216
+    100366: Cylinder216 1
+    100368: Cylinder217
+    100370: Cylinder217 1
+    100372: Cylinder218
+    100374: Cylinder218 1
+    100376: Cylinder219
+    100378: Cylinder219 1
+    100380: Cylinder220
+    100382: Cylinder220 1
+    100384: Cylinder221
+    100386: Cylinder221 1
+    100388: Cylinder222
+    100390: Cylinder222 1
+    100392: Cylinder93
+    100394: Cylinder93 1
+    100396: Cylinder94
+    100398: Cylinder94 1
+    100400: Cylinder95
+    100402: Cylinder95 1
+    100404: Cylinder96
+    100406: Cylinder96 1
+    100408: Cylinder97
+    100410: Cylinder97 1
+    100412: Cylinder98
+    100414: Cylinder98 1
+    100416: Cylinder99
+    100418: Cylinder99 1
+    100420: Hanging
+    100422: Hanging 1
+    100424: Line17
+    100426: Line17 1
+    100428: Line18
+    100430: Line18 1
+    100432: Line19
+    100434: Line19 1
+    100436: Line20
+    100438: Line20 1
+    100440: Line21
+    100442: Line21 1
+    100444: Line22
+    100446: Line22 1
+    100448: Line23
+    100450: Line23 1
+    100452: Line24
+    100454: Line24 1
+    100456: Line25
+    100458: Line25 1
+    100460: Main_Body
+    100462: Multiplable
+    100464: Multiplable1
+    100466: Object01
+    100468: Object01 1
+    100470: Object02
+    100472: Object02 1
+    100474: Object03
+    100476: Object03 1
+    100478: Object04
+    100480: //RootNode
+    100482: OilTank01
+    100484: OilTank01 1
+    100486: OilTank06
+    100488: OilTank06 1
+    100490: OilTank07
+    100492: OilTank07 1
+    100494: OilTank08
+    100496: OilTank08 1
+    100498: OilTank09
+    100500: OilTank09 1
+    100502: OilTank10
+    100504: OilTank10 1
+    100506: polySurface1
+    100508: polySurface2
+    100510: polySurface3
+    100512: polySurface4
+    100514: RightPanel
+    100516: transform1
+    400000: 0.60
+    400002: 0.60 1
+    400004: 0.62
+    400006: 0.62 1
+    400008: 0.81
+    400010: 0.81 1
+    400012: 0.82
+    400014: 0.82 1
+    400016: 0.83
+    400018: 0.83 1
+    400020: 0.84
+    400022: 0.84 1
+    400024: 1.07
+    400026: 1.07 1
+    400028: 1.09
+    400030: 1.09 1
+    400032: 1.11
+    400034: 1.11 1
+    400036: ______1.14
+    400038: ______1.14 1
+    400040: ______1.16
+    400042: ______1.16 1
+    400044: ______1.17
+    400046: ______1.17 1
+    400048: ______1.18
+    400050: ______1.18 1
+    400052: ______1.19
+    400054: ______1.19 1
+    400056: ______1.20
+    400058: ______1.20 1
+    400060: ______2.04
+    400062: ______2.04 1
+    400064: ______2.06
+    400066: ______2.06 1
+    400068: ______2.07
+    400070: ______2.07 1
+    400072: ______2.08
+    400074: ______2.08 1
+    400076: ______2.09
+    400078: ______2.09 1
+    400080: ______2.10
+    400082: ______2.10 1
+    400084: _________04
+    400086: _________04 1
+    400088: _________05
+    400090: _________05 1
+    400092: _________06
+    400094: _________06 1
+    400096: _________11
+    400098: _________11 1
+    400100: _________12
+    400102: _________12 1
+    400104: _________13
+    400106: _________13 1
+    400108: _________14
+    400110: _________14 1
+    400112: _________15
+    400114: _________15 1
+    400116: _________16
+    400118: _________16 1
+    400120: CenterAxis
+    400122: CenterAxis 1
+    400124: ChamferBox01
+    400126: ChamferBox01 1
+    400128: ChamferBox02
+    400130: ChamferBox02 1
+    400132: ChamferBox03
+    400134: ChamferBox03 1
+    400136: ChamferCyl010
+    400138: ChamferCyl010 1
+    400140: ChamferCyl011
+    400142: ChamferCyl011 1
+    400144: ChamferCyl012
+    400146: ChamferCyl012 1
+    400148: ChamferCyl013
+    400150: ChamferCyl013 1
+    400152: ChamferCyl014
+    400154: ChamferCyl014 1
+    400156: ChamferCyl015
+    400158: ChamferCyl015 1
+    400160: ChamferCyl016
+    400162: ChamferCyl016 1
+    400164: ChamferCyl017
+    400166: ChamferCyl017 1
+    400168: ChamferCyl018
+    400170: ChamferCyl018 1
+    400172: ChamferCyl019
+    400174: ChamferCyl019 1
+    400176: ChamferCyl020
+    400178: ChamferCyl020 1
+    400180: ChamferCyl021
+    400182: ChamferCyl021 1
+    400184: ChamferCyl022
+    400186: ChamferCyl022 1
+    400188: ChamferCyl023
+    400190: ChamferCyl023 1
+    400192: ChamferCyl024
+    400194: ChamferCyl024 1
+    400196: ChamferCyl025
+    400198: ChamferCyl025 1
+    400200: ChamferCyl026
+    400202: ChamferCyl026 1
+    400204: ChamferCyl027
+    400206: ChamferCyl027 1
+    400208: ChamferCyl028
+    400210: ChamferCyl028 1
+    400212: ChamferCyl029
+    400214: ChamferCyl029 1
+    400216: ChamferCyl030
+    400218: ChamferCyl030 1
+    400220: ChamferCyl031
+    400222: ChamferCyl031 1
+    400224: ChamferCyl49
+    400226: ChamferCyl49 1
+    400228: ChamferCyl50
+    400230: ChamferCyl50 1
+    400232: ChamferCyl51
+    400234: ChamferCyl51 1
+    400236: ChamferCyl52
+    400238: ChamferCyl52 1
+    400240: ChamferCyl53
+    400242: ChamferCyl53 1
+    400244: ChamferCyl54
+    400246: ChamferCyl54 1
+    400248: ChamferCyl55
+    400250: ChamferCyl55 1
+    400252: ChamferCyl56
+    400254: ChamferCyl56 1
+    400256: ChamferCyl57
+    400258: ChamferCyl57 1
+    400260: ChamferCyl58
+    400262: ChamferCyl58 1
+    400264: ChamferCyl59
+    400266: ChamferCyl59 1
+    400268: ChamferCyl60
+    400270: ChamferCyl60 1
+    400272: ChamferCyl61
+    400274: ChamferCyl61 1
+    400276: ChamferCyl62
+    400278: ChamferCyl62 1
+    400280: ChamferCyl63
+    400282: ChamferCyl63 1
+    400284: ChamferCyl64
+    400286: ChamferCyl64 1
+    400288: ChamferCyl65
+    400290: ChamferCyl65 1
+    400292: ChamferCyl66
+    400294: ChamferCyl66 1
+    400296: ChamferCyl67
+    400298: ChamferCyl67 1
+    400300: Cylinder01
+    400302: Cylinder01 1
+    400304: Cylinder010
+    400306: Cylinder010 1
+    400308: Cylinder011
+    400310: Cylinder011 1
+    400312: Cylinder012
+    400314: Cylinder012 1
+    400316: Cylinder013
+    400318: Cylinder013 1
+    400320: Cylinder06
+    400322: Cylinder06 1
+    400324: Cylinder08
+    400326: Cylinder08 1
+    400328: Cylinder09
+    400330: Cylinder09 1
+    400332: Cylinder100
+    400334: Cylinder100 1
+    400336: Cylinder101
+    400338: Cylinder101 1
+    400340: Cylinder102
+    400342: Cylinder102 1
+    400344: Cylinder211
+    400346: Cylinder211 1
+    400348: Cylinder212
+    400350: Cylinder212 1
+    400352: Cylinder213
+    400354: Cylinder213 1
+    400356: Cylinder214
+    400358: Cylinder214 1
+    400360: Cylinder215
+    400362: Cylinder215 1
+    400364: Cylinder216
+    400366: Cylinder216 1
+    400368: Cylinder217
+    400370: Cylinder217 1
+    400372: Cylinder218
+    400374: Cylinder218 1
+    400376: Cylinder219
+    400378: Cylinder219 1
+    400380: Cylinder220
+    400382: Cylinder220 1
+    400384: Cylinder221
+    400386: Cylinder221 1
+    400388: Cylinder222
+    400390: Cylinder222 1
+    400392: Cylinder93
+    400394: Cylinder93 1
+    400396: Cylinder94
+    400398: Cylinder94 1
+    400400: Cylinder95
+    400402: Cylinder95 1
+    400404: Cylinder96
+    400406: Cylinder96 1
+    400408: Cylinder97
+    400410: Cylinder97 1
+    400412: Cylinder98
+    400414: Cylinder98 1
+    400416: Cylinder99
+    400418: Cylinder99 1
+    400420: Hanging
+    400422: Hanging 1
+    400424: Line17
+    400426: Line17 1
+    400428: Line18
+    400430: Line18 1
+    400432: Line19
+    400434: Line19 1
+    400436: Line20
+    400438: Line20 1
+    400440: Line21
+    400442: Line21 1
+    400444: Line22
+    400446: Line22 1
+    400448: Line23
+    400450: Line23 1
+    400452: Line24
+    400454: Line24 1
+    400456: Line25
+    400458: Line25 1
+    400460: Main_Body
+    400462: Multiplable
+    400464: Multiplable1
+    400466: Object01
+    400468: Object01 1
+    400470: Object02
+    400472: Object02 1
+    400474: Object03
+    400476: Object03 1
+    400478: Object04
+    400480: //RootNode
+    400482: OilTank01
+    400484: OilTank01 1
+    400486: OilTank06
+    400488: OilTank06 1
+    400490: OilTank07
+    400492: OilTank07 1
+    400494: OilTank08
+    400496: OilTank08 1
+    400498: OilTank09
+    400500: OilTank09 1
+    400502: OilTank10
+    400504: OilTank10 1
+    400506: polySurface1
+    400508: polySurface2
+    400510: polySurface3
+    400512: polySurface4
+    400514: RightPanel
+    400516: transform1
+    2300000: 0.60
+    2300002: 0.60 1
+    2300004: 0.62
+    2300006: 0.62 1
+    2300008: 0.81
+    2300010: 0.81 1
+    2300012: 0.82
+    2300014: 0.82 1
+    2300016: 0.83
+    2300018: 0.83 1
+    2300020: 0.84
+    2300022: 0.84 1
+    2300024: 1.07
+    2300026: 1.07 1
+    2300028: 1.09
+    2300030: 1.09 1
+    2300032: 1.11
+    2300034: 1.11 1
+    2300036: ______1.14
+    2300038: ______1.14 1
+    2300040: ______1.16
+    2300042: ______1.16 1
+    2300044: ______1.17
+    2300046: ______1.17 1
+    2300048: ______1.18
+    2300050: ______1.18 1
+    2300052: ______1.19
+    2300054: ______1.19 1
+    2300056: ______1.20
+    2300058: ______1.20 1
+    2300060: ______2.04
+    2300062: ______2.04 1
+    2300064: ______2.06
+    2300066: ______2.06 1
+    2300068: ______2.07
+    2300070: ______2.07 1
+    2300072: ______2.08
+    2300074: ______2.08 1
+    2300076: ______2.09
+    2300078: ______2.09 1
+    2300080: ______2.10
+    2300082: ______2.10 1
+    2300084: _________04
+    2300086: _________04 1
+    2300088: _________05
+    2300090: _________05 1
+    2300092: _________06
+    2300094: _________06 1
+    2300096: _________11
+    2300098: _________11 1
+    2300100: _________12
+    2300102: _________12 1
+    2300104: _________13
+    2300106: _________13 1
+    2300108: _________14
+    2300110: _________14 1
+    2300112: _________15
+    2300114: _________15 1
+    2300116: _________16
+    2300118: _________16 1
+    2300120: CenterAxis
+    2300122: CenterAxis 1
+    2300124: ChamferBox01
+    2300126: ChamferBox01 1
+    2300128: ChamferBox02
+    2300130: ChamferBox02 1
+    2300132: ChamferBox03
+    2300134: ChamferBox03 1
+    2300136: ChamferCyl010
+    2300138: ChamferCyl010 1
+    2300140: ChamferCyl011
+    2300142: ChamferCyl011 1
+    2300144: ChamferCyl012
+    2300146: ChamferCyl012 1
+    2300148: ChamferCyl013
+    2300150: ChamferCyl013 1
+    2300152: ChamferCyl014
+    2300154: ChamferCyl014 1
+    2300156: ChamferCyl015
+    2300158: ChamferCyl015 1
+    2300160: ChamferCyl016
+    2300162: ChamferCyl016 1
+    2300164: ChamferCyl017
+    2300166: ChamferCyl017 1
+    2300168: ChamferCyl018
+    2300170: ChamferCyl018 1
+    2300172: ChamferCyl019
+    2300174: ChamferCyl019 1
+    2300176: ChamferCyl020
+    2300178: ChamferCyl020 1
+    2300180: ChamferCyl021
+    2300182: ChamferCyl021 1
+    2300184: ChamferCyl022
+    2300186: ChamferCyl022 1
+    2300188: ChamferCyl023
+    2300190: ChamferCyl023 1
+    2300192: ChamferCyl024
+    2300194: ChamferCyl024 1
+    2300196: ChamferCyl025
+    2300198: ChamferCyl025 1
+    2300200: ChamferCyl026
+    2300202: ChamferCyl026 1
+    2300204: ChamferCyl027
+    2300206: ChamferCyl027 1
+    2300208: ChamferCyl028
+    2300210: ChamferCyl028 1
+    2300212: ChamferCyl029
+    2300214: ChamferCyl029 1
+    2300216: ChamferCyl030
+    2300218: ChamferCyl030 1
+    2300220: ChamferCyl031
+    2300222: ChamferCyl031 1
+    2300224: ChamferCyl49
+    2300226: ChamferCyl49 1
+    2300228: ChamferCyl50
+    2300230: ChamferCyl50 1
+    2300232: ChamferCyl51
+    2300234: ChamferCyl51 1
+    2300236: ChamferCyl52
+    2300238: ChamferCyl52 1
+    2300240: ChamferCyl53
+    2300242: ChamferCyl53 1
+    2300244: ChamferCyl54
+    2300246: ChamferCyl54 1
+    2300248: ChamferCyl55
+    2300250: ChamferCyl55 1
+    2300252: ChamferCyl56
+    2300254: ChamferCyl56 1
+    2300256: ChamferCyl57
+    2300258: ChamferCyl57 1
+    2300260: ChamferCyl58
+    2300262: ChamferCyl58 1
+    2300264: ChamferCyl59
+    2300266: ChamferCyl59 1
+    2300268: ChamferCyl60
+    2300270: ChamferCyl60 1
+    2300272: ChamferCyl61
+    2300274: ChamferCyl61 1
+    2300276: ChamferCyl62
+    2300278: ChamferCyl62 1
+    2300280: ChamferCyl63
+    2300282: ChamferCyl63 1
+    2300284: ChamferCyl64
+    2300286: ChamferCyl64 1
+    2300288: ChamferCyl65
+    2300290: ChamferCyl65 1
+    2300292: ChamferCyl66
+    2300294: ChamferCyl66 1
+    2300296: ChamferCyl67
+    2300298: ChamferCyl67 1
+    2300300: Cylinder01
+    2300302: Cylinder01 1
+    2300304: Cylinder010
+    2300306: Cylinder010 1
+    2300308: Cylinder011
+    2300310: Cylinder011 1
+    2300312: Cylinder012
+    2300314: Cylinder012 1
+    2300316: Cylinder013
+    2300318: Cylinder013 1
+    2300320: Cylinder06
+    2300322: Cylinder06 1
+    2300324: Cylinder08
+    2300326: Cylinder08 1
+    2300328: Cylinder09
+    2300330: Cylinder09 1
+    2300332: Cylinder100
+    2300334: Cylinder100 1
+    2300336: Cylinder101
+    2300338: Cylinder101 1
+    2300340: Cylinder102
+    2300342: Cylinder102 1
+    2300344: Cylinder211
+    2300346: Cylinder211 1
+    2300348: Cylinder212
+    2300350: Cylinder212 1
+    2300352: Cylinder213
+    2300354: Cylinder213 1
+    2300356: Cylinder214
+    2300358: Cylinder214 1
+    2300360: Cylinder215
+    2300362: Cylinder215 1
+    2300364: Cylinder216
+    2300366: Cylinder216 1
+    2300368: Cylinder217
+    2300370: Cylinder217 1
+    2300372: Cylinder218
+    2300374: Cylinder218 1
+    2300376: Cylinder219
+    2300378: Cylinder219 1
+    2300380: Cylinder220
+    2300382: Cylinder220 1
+    2300384: Cylinder221
+    2300386: Cylinder221 1
+    2300388: Cylinder222
+    2300390: Cylinder222 1
+    2300392: Cylinder93
+    2300394: Cylinder93 1
+    2300396: Cylinder94
+    2300398: Cylinder94 1
+    2300400: Cylinder95
+    2300402: Cylinder95 1
+    2300404: Cylinder96
+    2300406: Cylinder96 1
+    2300408: Cylinder97
+    2300410: Cylinder97 1
+    2300412: Cylinder98
+    2300414: Cylinder98 1
+    2300416: Cylinder99
+    2300418: Cylinder99 1
+    2300420: Hanging
+    2300422: Hanging 1
+    2300424: Line17
+    2300426: Line17 1
+    2300428: Line18
+    2300430: Line18 1
+    2300432: Line19
+    2300434: Line19 1
+    2300436: Line20
+    2300438: Line20 1
+    2300440: Line21
+    2300442: Line21 1
+    2300444: Line22
+    2300446: Line22 1
+    2300448: Line23
+    2300450: Line23 1
+    2300452: Line24
+    2300454: Line24 1
+    2300456: Line25
+    2300458: Line25 1
+    2300460: Object01
+    2300462: Object01 1
+    2300464: Object02
+    2300466: Object02 1
+    2300468: Object03
+    2300470: Object03 1
+    2300472: Object04
+    2300474: OilTank01
+    2300476: OilTank01 1
+    2300478: OilTank06
+    2300480: OilTank06 1
+    2300482: OilTank07
+    2300484: OilTank07 1
+    2300486: OilTank08
+    2300488: OilTank08 1
+    2300490: OilTank09
+    2300492: OilTank09 1
+    2300494: OilTank10
+    2300496: OilTank10 1
+    2300498: polySurface2
+    2300500: polySurface3
+    2300502: polySurface4
+    2300504: RightPanel
+    3300000: 0.60
+    3300002: 0.60 1
+    3300004: 0.62
+    3300006: 0.62 1
+    3300008: 0.81
+    3300010: 0.81 1
+    3300012: 0.82
+    3300014: 0.82 1
+    3300016: 0.83
+    3300018: 0.83 1
+    3300020: 0.84
+    3300022: 0.84 1
+    3300024: 1.07
+    3300026: 1.07 1
+    3300028: 1.09
+    3300030: 1.09 1
+    3300032: 1.11
+    3300034: 1.11 1
+    3300036: ______1.14
+    3300038: ______1.14 1
+    3300040: ______1.16
+    3300042: ______1.16 1
+    3300044: ______1.17
+    3300046: ______1.17 1
+    3300048: ______1.18
+    3300050: ______1.18 1
+    3300052: ______1.19
+    3300054: ______1.19 1
+    3300056: ______1.20
+    3300058: ______1.20 1
+    3300060: ______2.04
+    3300062: ______2.04 1
+    3300064: ______2.06
+    3300066: ______2.06 1
+    3300068: ______2.07
+    3300070: ______2.07 1
+    3300072: ______2.08
+    3300074: ______2.08 1
+    3300076: ______2.09
+    3300078: ______2.09 1
+    3300080: ______2.10
+    3300082: ______2.10 1
+    3300084: _________04
+    3300086: _________04 1
+    3300088: _________05
+    3300090: _________05 1
+    3300092: _________06
+    3300094: _________06 1
+    3300096: _________11
+    3300098: _________11 1
+    3300100: _________12
+    3300102: _________12 1
+    3300104: _________13
+    3300106: _________13 1
+    3300108: _________14
+    3300110: _________14 1
+    3300112: _________15
+    3300114: _________15 1
+    3300116: _________16
+    3300118: _________16 1
+    3300120: CenterAxis
+    3300122: CenterAxis 1
+    3300124: ChamferBox01
+    3300126: ChamferBox01 1
+    3300128: ChamferBox02
+    3300130: ChamferBox02 1
+    3300132: ChamferBox03
+    3300134: ChamferBox03 1
+    3300136: ChamferCyl010
+    3300138: ChamferCyl010 1
+    3300140: ChamferCyl011
+    3300142: ChamferCyl011 1
+    3300144: ChamferCyl012
+    3300146: ChamferCyl012 1
+    3300148: ChamferCyl013
+    3300150: ChamferCyl013 1
+    3300152: ChamferCyl014
+    3300154: ChamferCyl014 1
+    3300156: ChamferCyl015
+    3300158: ChamferCyl015 1
+    3300160: ChamferCyl016
+    3300162: ChamferCyl016 1
+    3300164: ChamferCyl017
+    3300166: ChamferCyl017 1
+    3300168: ChamferCyl018
+    3300170: ChamferCyl018 1
+    3300172: ChamferCyl019
+    3300174: ChamferCyl019 1
+    3300176: ChamferCyl020
+    3300178: ChamferCyl020 1
+    3300180: ChamferCyl021
+    3300182: ChamferCyl021 1
+    3300184: ChamferCyl022
+    3300186: ChamferCyl022 1
+    3300188: ChamferCyl023
+    3300190: ChamferCyl023 1
+    3300192: ChamferCyl024
+    3300194: ChamferCyl024 1
+    3300196: ChamferCyl025
+    3300198: ChamferCyl025 1
+    3300200: ChamferCyl026
+    3300202: ChamferCyl026 1
+    3300204: ChamferCyl027
+    3300206: ChamferCyl027 1
+    3300208: ChamferCyl028
+    3300210: ChamferCyl028 1
+    3300212: ChamferCyl029
+    3300214: ChamferCyl029 1
+    3300216: ChamferCyl030
+    3300218: ChamferCyl030 1
+    3300220: ChamferCyl031
+    3300222: ChamferCyl031 1
+    3300224: ChamferCyl49
+    3300226: ChamferCyl49 1
+    3300228: ChamferCyl50
+    3300230: ChamferCyl50 1
+    3300232: ChamferCyl51
+    3300234: ChamferCyl51 1
+    3300236: ChamferCyl52
+    3300238: ChamferCyl52 1
+    3300240: ChamferCyl53
+    3300242: ChamferCyl53 1
+    3300244: ChamferCyl54
+    3300246: ChamferCyl54 1
+    3300248: ChamferCyl55
+    3300250: ChamferCyl55 1
+    3300252: ChamferCyl56
+    3300254: ChamferCyl56 1
+    3300256: ChamferCyl57
+    3300258: ChamferCyl57 1
+    3300260: ChamferCyl58
+    3300262: ChamferCyl58 1
+    3300264: ChamferCyl59
+    3300266: ChamferCyl59 1
+    3300268: ChamferCyl60
+    3300270: ChamferCyl60 1
+    3300272: ChamferCyl61
+    3300274: ChamferCyl61 1
+    3300276: ChamferCyl62
+    3300278: ChamferCyl62 1
+    3300280: ChamferCyl63
+    3300282: ChamferCyl63 1
+    3300284: ChamferCyl64
+    3300286: ChamferCyl64 1
+    3300288: ChamferCyl65
+    3300290: ChamferCyl65 1
+    3300292: ChamferCyl66
+    3300294: ChamferCyl66 1
+    3300296: ChamferCyl67
+    3300298: ChamferCyl67 1
+    3300300: Cylinder01
+    3300302: Cylinder01 1
+    3300304: Cylinder010
+    3300306: Cylinder010 1
+    3300308: Cylinder011
+    3300310: Cylinder011 1
+    3300312: Cylinder012
+    3300314: Cylinder012 1
+    3300316: Cylinder013
+    3300318: Cylinder013 1
+    3300320: Cylinder06
+    3300322: Cylinder06 1
+    3300324: Cylinder08
+    3300326: Cylinder08 1
+    3300328: Cylinder09
+    3300330: Cylinder09 1
+    3300332: Cylinder100
+    3300334: Cylinder100 1
+    3300336: Cylinder101
+    3300338: Cylinder101 1
+    3300340: Cylinder102
+    3300342: Cylinder102 1
+    3300344: Cylinder211
+    3300346: Cylinder211 1
+    3300348: Cylinder212
+    3300350: Cylinder212 1
+    3300352: Cylinder213
+    3300354: Cylinder213 1
+    3300356: Cylinder214
+    3300358: Cylinder214 1
+    3300360: Cylinder215
+    3300362: Cylinder215 1
+    3300364: Cylinder216
+    3300366: Cylinder216 1
+    3300368: Cylinder217
+    3300370: Cylinder217 1
+    3300372: Cylinder218
+    3300374: Cylinder218 1
+    3300376: Cylinder219
+    3300378: Cylinder219 1
+    3300380: Cylinder220
+    3300382: Cylinder220 1
+    3300384: Cylinder221
+    3300386: Cylinder221 1
+    3300388: Cylinder222
+    3300390: Cylinder222 1
+    3300392: Cylinder93
+    3300394: Cylinder93 1
+    3300396: Cylinder94
+    3300398: Cylinder94 1
+    3300400: Cylinder95
+    3300402: Cylinder95 1
+    3300404: Cylinder96
+    3300406: Cylinder96 1
+    3300408: Cylinder97
+    3300410: Cylinder97 1
+    3300412: Cylinder98
+    3300414: Cylinder98 1
+    3300416: Cylinder99
+    3300418: Cylinder99 1
+    3300420: Hanging
+    3300422: Hanging 1
+    3300424: Line17
+    3300426: Line17 1
+    3300428: Line18
+    3300430: Line18 1
+    3300432: Line19
+    3300434: Line19 1
+    3300436: Line20
+    3300438: Line20 1
+    3300440: Line21
+    3300442: Line21 1
+    3300444: Line22
+    3300446: Line22 1
+    3300448: Line23
+    3300450: Line23 1
+    3300452: Line24
+    3300454: Line24 1
+    3300456: Line25
+    3300458: Line25 1
+    3300460: Object01
+    3300462: Object01 1
+    3300464: Object02
+    3300466: Object02 1
+    3300468: Object03
+    3300470: Object03 1
+    3300472: Object04
+    3300474: OilTank01
+    3300476: OilTank01 1
+    3300478: OilTank06
+    3300480: OilTank06 1
+    3300482: OilTank07
+    3300484: OilTank07 1
+    3300486: OilTank08
+    3300488: OilTank08 1
+    3300490: OilTank09
+    3300492: OilTank09 1
+    3300494: OilTank10
+    3300496: OilTank10 1
+    3300498: polySurface2
+    3300500: polySurface3
+    3300502: polySurface4
+    3300504: RightPanel
+    4300000: RightPanel
+    4300002: polySurface2
+    4300004: polySurface3
+    4300006: polySurface4
+    4300008: ______1.19
+    4300010: ______1.20
+    4300012: ______2.06
+    4300014: ______2.07
+    4300016: ______2.08
+    4300018: ______1.14
+    4300020: ChamferCyl010
+    4300022: ChamferCyl011
+    4300024: ChamferCyl012
+    4300026: ChamferCyl013
+    4300028: ChamferCyl014
+    4300030: Cylinder08
+    4300032: Cylinder09
+    4300034: Cylinder213
+    4300036: ChamferCyl016
+    4300038: ChamferCyl54
+    4300040: ChamferCyl55
+    4300042: ChamferCyl017
+    4300044: Cylinder214
+    4300046: Cylinder211
+    4300048: ChamferCyl49
+    4300050: ChamferCyl51
+    4300052: ChamferCyl52
+    4300054: ChamferCyl53
+    4300056: Cylinder212
+    4300058: ChamferBox01
+    4300060: Line17
+    4300062: Line18
+    4300064: Line19
+    4300066: ChamferCyl50
+    4300068: ChamferCyl015
+    4300070: _________14
+    4300072: _________13
+    4300074: _________15
+    4300076: _________16
+    4300078: _________11
+    4300080: _________12
+    4300082: ChamferCyl018
+    4300084: ChamferCyl019
+    4300086: ChamferCyl020
+    4300088: ChamferCyl021
+    4300090: ChamferCyl022
+    4300092: Cylinder010
+    4300094: Cylinder011
+    4300096: Cylinder215
+    4300098: ChamferCyl023
+    4300100: ChamferCyl56
+    4300102: ChamferCyl57
+    4300104: ChamferCyl024
+    4300106: Cylinder216
+    4300108: Cylinder217
+    4300110: ChamferCyl58
+    4300112: ChamferCyl59
+    4300114: ChamferCyl60
+    4300116: ChamferCyl61
+    4300118: Cylinder218
+    4300120: ChamferBox02
+    4300122: Line20
+    4300124: Line21
+    4300126: Line22
+    4300128: ChamferCyl025
+    4300130: ChamferCyl026
+    4300132: ChamferCyl027
+    4300134: ChamferCyl028
+    4300136: ChamferCyl029
+    4300138: Cylinder012
+    4300140: Cylinder013
+    4300142: Cylinder219
+    4300144: ChamferCyl030
+    4300146: ChamferCyl62
+    4300148: ChamferCyl63
+    4300150: ChamferCyl031
+    4300152: Cylinder220
+    4300154: Cylinder221
+    4300156: ChamferCyl64
+    4300158: ChamferCyl65
+    4300160: ChamferCyl66
+    4300162: ChamferCyl67
+    4300164: Cylinder222
+    4300166: ChamferBox03
+    4300168: Line23
+    4300170: Line24
+    4300172: Line25
+    4300174: Object03
+    4300176: 1.11
+    4300178: Object02
+    4300180: 1.09
+    4300182: Object01
+    4300184: 1.07
+    4300186: Cylinder93
+    4300188: Cylinder94
+    4300190: Cylinder06
+    4300192: Cylinder01
+    4300194: OilTank01
+    4300196: Cylinder101
+    4300198: OilTank10
+    4300200: Cylinder102
+    4300202: Hanging
+    4300204: OilTank08
+    4300206: Cylinder97
+    4300208: Cylinder98
+    4300210: OilTank07
+    4300212: Cylinder95
+    4300214: Cylinder96
+    4300216: OilTank09
+    4300218: Cylinder99
+    4300220: Cylinder100
+    4300222: OilTank06
+    4300224: 0.60
+    4300226: ______1.16
+    4300228: ______1.17
+    4300230: ______1.18
+    4300232: 0.83
+    4300234: 0.84
+    4300236: _________06
+    4300238: _________05
+    4300240: _________04
+    4300242: ______2.04
+    4300244: 0.62
+    4300246: 0.81
+    4300248: 0.82
+    4300250: ______2.09
+    4300252: ______2.10
+    4300254: CenterAxis
+    4300256: ______1.19
+    4300258: ______1.20
+    4300260: ______2.06
+    4300262: ______2.07
+    4300264: ______2.08
+    4300266: ______1.14
+    4300268: ChamferCyl010
+    4300270: ChamferCyl011
+    4300272: ChamferCyl012
+    4300274: ChamferCyl013
+    4300276: ChamferCyl014
+    4300278: Cylinder08
+    4300280: Cylinder09
+    4300282: Cylinder213
+    4300284: ChamferCyl016
+    4300286: ChamferCyl54
+    4300288: ChamferCyl55
+    4300290: ChamferCyl017
+    4300292: Cylinder214
+    4300294: Cylinder211
+    4300296: ChamferCyl49
+    4300298: ChamferCyl51
+    4300300: ChamferCyl52
+    4300302: ChamferCyl53
+    4300304: Cylinder212
+    4300306: ChamferBox01
+    4300308: Line17
+    4300310: Line18
+    4300312: Line19
+    4300314: ChamferCyl50
+    4300316: ChamferCyl015
+    4300318: _________14
+    4300320: _________13
+    4300322: _________15
+    4300324: _________16
+    4300326: _________11
+    4300328: _________12
+    4300330: ChamferCyl018
+    4300332: ChamferCyl019
+    4300334: ChamferCyl020
+    4300336: ChamferCyl021
+    4300338: ChamferCyl022
+    4300340: Cylinder010
+    4300342: Cylinder011
+    4300344: Cylinder215
+    4300346: ChamferCyl023
+    4300348: ChamferCyl56
+    4300350: ChamferCyl57
+    4300352: ChamferCyl024
+    4300354: Cylinder216
+    4300356: Cylinder217
+    4300358: ChamferCyl58
+    4300360: ChamferCyl59
+    4300362: ChamferCyl60
+    4300364: ChamferCyl61
+    4300366: Cylinder218
+    4300368: ChamferBox02
+    4300370: Line20
+    4300372: Line21
+    4300374: Line22
+    4300376: ChamferCyl025
+    4300378: ChamferCyl026
+    4300380: ChamferCyl027
+    4300382: ChamferCyl028
+    4300384: ChamferCyl029
+    4300386: Cylinder012
+    4300388: Cylinder013
+    4300390: Cylinder219
+    4300392: ChamferCyl030
+    4300394: ChamferCyl62
+    4300396: ChamferCyl63
+    4300398: ChamferCyl031
+    4300400: Cylinder220
+    4300402: Cylinder221
+    4300404: ChamferCyl64
+    4300406: ChamferCyl65
+    4300408: ChamferCyl66
+    4300410: ChamferCyl67
+    4300412: Cylinder222
+    4300414: ChamferBox03
+    4300416: Line23
+    4300418: Line24
+    4300420: Line25
+    4300422: Object03
+    4300424: 1.11
+    4300426: Object02
+    4300428: 1.09
+    4300430: Object01
+    4300432: 1.07
+    4300434: Cylinder93
+    4300436: Cylinder94
+    4300438: Cylinder06
+    4300440: Cylinder01
+    4300442: OilTank01
+    4300444: Cylinder101
+    4300446: OilTank10
+    4300448: Cylinder102
+    4300450: Hanging
+    4300452: OilTank08
+    4300454: Cylinder97
+    4300456: Cylinder98
+    4300458: OilTank07
+    4300460: Cylinder95
+    4300462: Cylinder96
+    4300464: OilTank09
+    4300466: Cylinder99
+    4300468: Cylinder100
+    4300470: OilTank06
+    4300472: 0.60
+    4300474: ______1.16
+    4300476: ______1.17
+    4300478: ______1.18
+    4300480: 0.83
+    4300482: 0.84
+    4300484: _________06
+    4300486: _________05
+    4300488: _________04
+    4300490: ______2.04
+    4300492: 0.62
+    4300494: 0.81
+    4300496: 0.82
+    4300498: ______2.09
+    4300500: ______2.10
+    4300502: CenterAxis
+    4300504: Object04
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
