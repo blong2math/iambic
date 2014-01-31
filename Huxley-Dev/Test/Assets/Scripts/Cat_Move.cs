@@ -3,6 +3,7 @@ using System.Collections;
 
 public class Cat_Move : MonoBehaviour {
 
+	public float speed = 1f;
 	public float rotateHeadAngle = 36.8f;
 	public float minJumpInteral = 1.5f;
 	public float jumpTime = 2f;
@@ -49,14 +50,16 @@ public class Cat_Move : MonoBehaviour {
 	void FixedUpdate(){
 		if (transform.position.x >= fishTransform.position.x - 1){
 			// 猫逮到了鱼，利用ik系统完成抓鱼动画？
-			Debug.Log ("Cat catched fish!");
+			// 广播关卡失败
+			GameObject obj = GameObject.Find ("Main Camera");
+			obj.SendMessage("ReceiveMessage", Judgement.kGameFailed);
 		}
 	}
 
 	void OnAnimatorMove() {
 		if (animator){
 			Vector3 tPosition = transform.position;
-			tPosition.x = Mathf.Lerp(tPosition.x, fishTransform.position.x + Random.Range(-2, 2), Time.deltaTime);
+			tPosition.x = Mathf.Lerp(tPosition.x, fishTransform.position.x + Random.Range(-2, 3), Time.deltaTime * speed);
 			tPosition.x = tPosition.x < kMaxXFloat ? tPosition.x : kMaxXFloat;
 			transform.position = tPosition;
 		} else throw new UnityException("No Animator Found");

@@ -5,6 +5,9 @@ public class Fish_Control : MonoBehaviour {
 	public float swamSpeed = 5f;
 	public float downSpeed = 0.6f;
 	public float swimTime = 0.5f;
+	public float swimEnlargeRatio = 1.1f;
+
+	private float gabbishCollisionCount; // Unused in real swim judgement
 
 	private const float kMinXfloat = -11.88f;
 	private const float kMaxXfloat = 21f;
@@ -15,7 +18,7 @@ public class Fish_Control : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+		gabbishCollisionCount = 0;
 	}
 	
 	// Update is called once per frame
@@ -23,6 +26,8 @@ public class Fish_Control : MonoBehaviour {
 		Vector3 tPosition = transform.position;
 		if (transform.position.x >= kMaxXfloat){
 			// 广播关卡通过
+			GameObject obj = GameObject.Find ("Main Camera");
+			obj.SendMessage("ReceiveMessage", Judgement.kGameFailed);
 			tPosition.x += swamSpeed * 4 * Time.deltaTime;
 			transform.position = tPosition;
 		} else {
@@ -42,7 +47,12 @@ public class Fish_Control : MonoBehaviour {
 
 	void OnCollisionEnter(Collision collision) {
 		if (collision.gameObject.tag == "gabbish"){
+			swimTime *= swimEnlargeRatio;
 			StartCoroutine("SwimCoroutine");
+		} else if (collision.gameObject.name == "Cat"){
+			// 广播关卡失败
+			GameObject obj = GameObject.Find ("Main Camera");
+			obj.SendMessage("ReceiveMessage", Judgement.kGameFailed);
 		}
 	}
 
