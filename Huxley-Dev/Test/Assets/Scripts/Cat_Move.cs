@@ -13,6 +13,8 @@ public class Cat_Move : MonoBehaviour {
 	private float lastJumpTime;
 	private int jumpContinueCount;
 
+	private Judgement judgement;
+
 	private const float kMaxXFloat = 20f;
 	private const float kRightZBoundary = 3.34f;
 	private const float kLeftZBoundary = 6.94f;
@@ -23,6 +25,7 @@ public class Cat_Move : MonoBehaviour {
 	void Start () {
 		animator = GetComponent<Animator>();
 		fishTransform = GameObject.Find("Fish").transform;
+		judgement = GameObject.Find ("Main Camera").GetComponent<Judgement>();
 
 		isOnTheRight = true;
 		lastJumpTime = -1f;
@@ -48,7 +51,7 @@ public class Cat_Move : MonoBehaviour {
 	}
 
 	void FixedUpdate(){
-		if (transform.position.x >= fishTransform.position.x - 1){
+		if (transform.position.x >= fishTransform.position.x - 1 && judgement.stateInfo == Judgement.kGameDoing){
 			// 猫逮到了鱼，利用ik系统完成抓鱼动画？
 			// 广播关卡失败
 			GameObject obj = GameObject.Find ("Main Camera");
